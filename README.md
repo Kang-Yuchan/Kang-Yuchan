@@ -1,16 +1,17 @@
-## Hi there 👋
+## 💁‍♂️ About me
+I'm a web frontend developer, working mostly with Typescript, Next.js(React.js)!
 
-<!--
-**Kang-Yuchan/Kang-Yuchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills
+<p dir="auto">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,wordpress,nodejs,html,css,sass,tailwind,react,nextjs,express,docker,aws,graphql,mysql,postgres,mongodb,supabase,jest,npm,yarn,bun,webpack&perline=10" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 📈 Status
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-Yuchan&count_private=true&layout=compact&theme=tokyonight" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kang-Yuchan&count_private=true&show_icons=true&theme=tokyonight" height="150px" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kang-Yuchan&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
