@@ -4,7 +4,7 @@ I'm a web frontend developer, working mostly with Typescript, Next.js(React.js)!
 ### 🚀 Skills
 <p dir="auto">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,wordpress,nodejs,html,css,sass,tailwind,react,nextjs,express,docker,aws,graphql,mysql,postgres,mongodb,supabase,jest,npm,yarn,bun,webpack&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,js,wordpress,nodejs,html,css,sass,tailwind,react,nextjs,express,docker,aws,graphql,mysql,postgres,prisma,mongodb,supabase,jest,npm,yarn,bun,webpack&perline=10" />
   </a>
 </p>
 
