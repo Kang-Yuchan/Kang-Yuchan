@@ -30,10 +30,3 @@ setup, and a severity rubric for AI-generated code.
 ### 🤖 AI-driven development
 
 Claude Code (custom commands & skills) / Cursor / Codex / Figma MCP
-
-### 📈 Status
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-Yuchan&count_private=true&layout=compact&theme=tokyonight" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kang-Yuchan&count_private=true&show_icons=true&theme=tokyonight" height="150px" />
-</div>
